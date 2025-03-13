@@ -1,2 +1,3 @@
-print("Moi Maailma!")
+# tämä on ekaohjelma 
+# print("Moi Maailma!")
 print("mitä kuuluu")
