@@ -1,2 +1,2 @@
-print("Moi Maailmaa!")
+print("Moi Maailma!")
 print("mitä kuuluu")
